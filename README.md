@@ -179,6 +179,3 @@ Url-Shortener-Api/
 
 ---
 
-## 📄 Lisans
-
-Bu proje MIT lisansı ile lisanslanmıştır.
